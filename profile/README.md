@@ -1,10 +1,10 @@
-# 🚀 Startup IMS
+# 🚀 Startup Abstractor Software
 
-Welcome to **Startup IMS**! We are a dynamic software development team based in Peru 🇵🇪, specializing in delivering high-quality products using the latest technologies.
+Welcome to **Startup Abstractor Software**! We are a dynamic software development team based in Peru 🇵🇪, specializing in delivering high-quality products using the latest technologies.
 
 ## 👨‍💻 Who We Are
 
-At Startup IMS, we pride ourselves on our expertise in crafting reliable and scalable software solutions. With years of experience, our team excels in:
+At Startup Abstractor Software, we pride ourselves on our expertise in crafting reliable and scalable software solutions. With years of experience, our team excels in:
 
 - **.NET** - Backend development, microservices, and enterprise solutions.
 - **Angular** - Frontend development with a focus on responsive and user-friendly interfaces.
