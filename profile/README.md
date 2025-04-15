@@ -23,7 +23,4 @@ To empower businesses with cutting-edge software solutions that drive innovation
 
 We are always excited to collaborate on new projects and ideas! If you're interested in working with us or learning more about what we do, feel free to reach out.
 
-- 📧 Email: [info@innovationmodularsoftware.com](mailto:info@innovationmodularsoftware.com)
-- 🌐 Website: [www.innovationmodularsoftware.com](https://www.innovationmodularsoftware.com)
-
 Thank you for visiting our page, and we look forward to creating something amazing together! ✨
